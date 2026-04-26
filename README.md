@@ -1,8 +1,6 @@
 # ProjektiLista
 Erinäisiä projektejani 
 
-Kokoelma pienempiä ja keskikokoisia projekteja, joissa on kokeiltu eri työkaluja, rajapintoja ja datankäsittelytapoja.
-
 Fokus:
 - käytännön toteutus; työnkulkujen harjoittelu & työkalujen yhdistäminen; datan keruu, tallennus ja jatkokäsittely
 - toimivat työvälineet tekstien tuottamisen ja käsittelyn työnkulkuihin; hauskat kokeilut
