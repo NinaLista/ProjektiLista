@@ -21,7 +21,7 @@ Fokus:
 | 🔍 Hakupikanäppäimet | Automaatio | AutoHotkey v2, Windows, selaimen URL-hakut | Pikanäppäimillä ohjattu haku (Kielitoimisto, Google, Synonyymit) |
 | 🔍 Offline Highlight Tool | Selainlaajennus | JavaScript, Chrome/Edge (Manifest V3), Clipboard API, contextMenus API | Valitun tekstin kopiointi lähde-URL:n kanssa (offline) |
 | 🗺️ Muinaisia mestoja | Kartta / dataputki / AI-rikastus| Excel PowerQuery (WFS), Museovirasto API, KYPPI, GenAI, Google Maps | API → siivous → rikastus → interaktiivinen kartta |
-| 🗺️ Hiisi-paikannimet | Kartta / dataputki / AI-rikastus | Nimisampo, Sotasampo, Excel-käsittely, GenAI, Google Maps | Laaja nimidata → teematasot → karttatutkiminen |
+| 🗺️ Hiisi-paikannimet | Kartta / dataputki / AI-rikastus | Nimisampo, Sotasampo, Excel-käsittely, GoogleAIStudio, Google Maps | Laaja nimidata → teematasot → karttatutkiminen |
 | 🗺️ Arkeologiset alueet (Satakunta) | Kartta / dataputki / AI-rikastus | Kulttuuriympäristö API, KYPPI/VARK, GenAI, Google Maps | Kuratoitu paikkadata → tiivistys → karttakohteet |
 | 🗺️ QGIS – paikkatietoanalyysi | Data-analyysi / GIS | QGIS, geodata, shapefiles, raster/vektori | Tutkimusdata, paikkatieto | Tutkimusdatan tarkastelu ja visualisointi paikkatiedon kautta |
 | 🌄 QGIS + Blender – 3D maisemavisualisointi | Paikkatieto + 3D / visualisointi | QGIS, Blender, Python scripting, geodata (DEM/vektori) | Paikkatieto, korkeusdata, tutkimusdata | QGIS-datan muuntaminen 3D-maisemaksi ja visualisointi Blenderissä |
@@ -30,7 +30,7 @@ Fokus:
 | 🌐 Wiki API -datakysely | Datahaku / API / SQL | Wikipedia/Wikidata API, SQL/queries, JSON | Wiki-data, rakenteinen tieto | Datan haku rajapinnasta SQL-tyyppisillä kyselyillä ja jatkokäsittely |
 | 🧠 Opintomuistiinpanot & minisisällöt | Sisältöputki | ChatGPT, manuaalinen kuratointi, audio/video/grafiikkatyökalut | Muistiinpanot → jäsennys → minisisällöt |
 | 🧠 Custom GPT:t | AI-konfiguraatio / promptikehitys | ChatGPT (custom GPTs), järjestelmäpromptit, ohjauspromptit | Käyttötapauskohtaiset GPT:t (räätälöity IT-tuki, tekstilähteiden tiivistäjät, tyylianalyysipohjaiset persoonat) |
-| 🧰 Työkalut & ympäristöt | Kehitysympäristö / tooling | Anaconda/JupyterLab (Python), Colab, VS Code, Cursor, GitHub, JavaScript, AutoHotkey, Excel, R, Orange, QGIS, Blender, MSOffice, GoogleDocs/Sheets, Trados, Wordfast | Projektikehitys | Monityökalupohjainen kehitys eri käyttötarkoituksiin |
+| 🧰 Työkalut & ympäristöt | Kehitysympäristö / tooling | Anaconda/JupyterLab (Python), Colab, VS Code, Cursor, GitHub; Excel, RStudio, Orange, QGIS, Blender, Gephi; AutoHotkey; GenAI (eri mallit), Replit. Ollama, LMStudio, AnythingLLM; Adobe CC (InDesign, Lightroom, PhotoShop, Illustrator, Premiere), MSOffice, GoogleDocs/Sheets; Trados, Wordfast | Projektikehitys | Monityökalupohjainen kehitys eri käyttötarkoituksiin |
 
 ## Lisätietoja
 
@@ -60,7 +60,7 @@ Fokus:
 
 🧊 Blender – dataohjattu 3D — Python-skripteillä ohjattu 3D-työskentely Blenderissä, jossa Excel-muotoinen data muunnetaan visuaalisiksi objekteiksi ja rakenteiksi.
 
-🤖 LLM fine-tuning (FI GPT-2) — Kokeellinen mallikoulutus, jossa suomenkielistä GPT-2-mallia hienosäädetään pienellä aineistolla tyylinsiirron tutkimiseksi.
+🤖 LLM fine-tuning (FI GPT-2) — Kokeellinen mallikoulutus, jossa suomenkielistä GPT-2-mallia hienosäädetään pienellä aineistolla tyylinsiirron tutkimiseksi. Heikko semanttinen koherenssi, rajoitteet kontekstissa ja mallikoossa; seuraava askel esim LoRA.
 
 🌐 Wiki API -datakysely — Datan haku Wikipedia/Wikidata-rajapinnoista SQL-tyyppisillä kyselyillä (esim. SPARQL), tulosten käsittely ja hyödyntäminen rakenteisena aineistona.
 
