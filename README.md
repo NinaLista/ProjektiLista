@@ -13,7 +13,7 @@ Fokus:
 |----------|--------|-------------------|----------|
 | 🛠️ InDesign / InCopy -skriptit | Desktop automaatio / julkaisu | InDesign/InCopy scripting (JS/ExtendScript), Word/RTF import | Julkaisuteksti, rakenteet | Rakenteisen tekstin hallinta ja automaatio (esim. hakemistot, viitteet, kommentit) |
 | 🛠️ PDF / Word -tekstityökalut | Tekstin muotoilu | Python (PDF/Word parsing), fokus offline lokaalisti | PDF/Word-teksti | Tekstin siivous, muunnos | 
-| 🛠️ Word-tekstityökalut | Tiedonhaku | AutoHotkey v2, URL-haut | AHK | Kustomoitava tiedonhakutekniikka |
+| 🛠️ Word-tekstityökalut | Tiedonhaku | AutoHotkey v2, URL-haut | AHK | Kustomoitava, pikanäppäimillä ohjattu haku (esim. kielitoimisto, wikit, SAOB, synonyymit, kansalliskirjasto) |
 | 🤖 Tekstianalyysiskriptit | Tekstianalyysi / data | Python (NLP Stanza, SpaCy, regex) | Tekstin kielelliset ominaisuudet, NER-entiteettilistaukset (henkilöt, organisaatiot, paikat) | Kustomoitu analyysi tekstiversioiden vertailuun ja NER-poimintoihin |
 | 🎤 Teksti- ja puheloki-työkalu | Web-sovellus | Apps Script (web app), Google Sheets (tietokanta), HTML/JS (UI), Android (selain) | Rakenteinen mobiililokitus (teksti + aikaleima + sijainti) |
 | 📅 Reading/Writing Calendar | Ajanhallinta / työnkulku | Kustomoitu HTML/JS (local tool), Excel | Projektinhallinta, työvaiheet | Tekstien aikataulutus ja etenemisen seuranta eri työvaiheissa |
