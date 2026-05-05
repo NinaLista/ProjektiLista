@@ -3,7 +3,7 @@ Erinäisiä projektejani
 
 Fokus:
 - käytännön toteutus; työnkulkujen harjoittelu & työkalujen yhdistäminen; datan keruu, tallennus ja jatkokäsittely
-- toimivat työvälineet tekstien tuottamisen ja käsittelyn työnkulkuihin; hauskat kokeilut
+- toimivat työvälineet tiedon- ja sisällöntuottamisen työnkulkuihin; hauskat kokeilut
 
 ---
 
@@ -12,7 +12,8 @@ Fokus:
 | Projekti | Tyyppi | Teknologia / Stack | Ydinidea |
 |----------|--------|-------------------|----------|
 | 🛠️ InDesign / InCopy -skriptit | Desktop automaatio / julkaisu | InDesign/InCopy scripting (JS/ExtendScript), Word/RTF import | Julkaisuteksti, rakenteet | Rakenteisen tekstin hallinta ja automaatio (esim. hakemistot, viitteet, kommentit) |
-| 🛠️ PDF / Word -tekstityökalut | Tekstin muotoilu | Python (PDF/Word parsing), fokus offline lokaalisti | PDF/Word-teksti | Tekstin siivous, muunnos |
+| 🛠️ PDF / Word -tekstityökalut | Tekstin muotoilu | Python (PDF/Word parsing), fokus offline lokaalisti | PDF/Word-teksti | Tekstin siivous, muunnos | 
+| 🛠️ Word-tekstityökalut | Tiedonhaku | AutoHotkey v2, URL-haut | AHK | Kustomoitava tiedonhakutekniikka |
 | 🤖 Tekstianalyysiskriptit | Tekstianalyysi / data | Python (NLP Stanza, SpaCy, regex) | Tekstin kielelliset ominaisuudet, NER-entiteettilistaukset (henkilöt, organisaatiot, paikat) | Kustomoitu analyysi tekstiversioiden vertailuun ja NER-poimintoihin |
 | 🎤 Teksti- ja puheloki-työkalu | Web-sovellus | Apps Script (web app), Google Sheets (tietokanta), HTML/JS (UI), Android (selain) | Rakenteinen mobiililokitus (teksti + aikaleima + sijainti) |
 | 📅 Reading/Writing Calendar | Ajanhallinta / työnkulku | Kustomoitu HTML/JS (local tool), Excel | Projektinhallinta, työvaiheet | Tekstien aikataulutus ja etenemisen seuranta eri työvaiheissa |
@@ -28,6 +29,7 @@ Fokus:
 | 🌐 Wiki API -datakysely | Datahaku / API / SQL | Wikipedia/Wikidata API, SQL/queries, JSON | Wiki-data, rakenteinen tieto | Datan haku rajapinnasta SQL-tyyppisillä kyselyillä ja jatkokäsittely |
 | 🧠 Opintomuistiinpanot & minisisällöt | Sisältöputki | ChatGPT, manuaalinen kuratointi, audio/video/grafiikkatyökalut | Muistiinpanot → jäsennys → minisisällöt |
 | 🧠 Custom GPT:t | AI-konfiguraatio / promptikehitys | ChatGPT (custom GPTs), järjestelmäpromptit, ohjauspromptit | Käyttötapauskohtaiset GPT:t (räätälöity IT-tuki, tekstilähteiden tiivistäjät, tyylianalyysipohjaiset persoonat) |
+| 🧠 Ohjeet | Sisältöputki | Workflow- ja tulostiedostojen kuratointi, perinteiset ja AI-audio/video/grafiikkatyökalut | Muistiinpanot → jäsennys → sisällöt |
 | 🧰 Työkalut & ympäristöt | Kehitysympäristö / tooling | Anaconda/JupyterLab (Python), Colab, VS Code, Cursor, GitHub; Excel, RStudio, Orange, QGIS, Blender, Gephi; AutoHotkey; GenAI (eri mallit), Replit. Ollama, LMStudio, AnythingLLM; Adobe CC (InDesign, Lightroom, PhotoShop, Illustrator, Premiere), MSOffice, GoogleDocs/Sheets; Trados, Wordfast | Projektikehitys | Monityökalupohjainen kehitys eri käyttötarkoituksiin |
 
 ## Lisätietoja
