@@ -13,11 +13,10 @@ Fokus:
 |----------|--------|-------------------|----------|
 | 🛠️ InDesign / InCopy -skriptit | Desktop automaatio / julkaisu | InDesign/InCopy scripting (JS/ExtendScript), Word/RTF import | Julkaisuteksti, rakenteet | Rakenteisen tekstin hallinta ja automaatio (esim. hakemistot, viitteet, kommentit) |
 | 🛠️ PDF / Word -tekstityökalut | Tekstin muotoilu | Python (PDF/Word parsing), fokus offline lokaalisti | PDF/Word-teksti | Tekstin siivous, muunnos | 
-| 🛠️ Word-tekstityökalut | Tiedonhaku | AutoHotkey v2, URL-haut | AHK | Kustomoitava, pikanäppäimillä ohjattu haku (esim. kielitoimisto, wikit, SAOB, synonyymit, kansalliskirjasto) |
+| 🛠️ Word-tekstityökalut | Tiedonhaku | AutoHotkey v2, Windows, URL-haut | AHK | Kustomoitava, pikanäppäimillä ohjattu haku (esim. Kielitoimisto, wikit, SAOB, synonyymit, Kansalliskirjasto) |
 | 🤖 Tekstianalyysiskriptit | Tekstianalyysi / data | Python (NLP Stanza, SpaCy, regex) | Tekstin kielelliset ominaisuudet, NER-entiteettilistaukset (henkilöt, organisaatiot, paikat) | Kustomoitu analyysi tekstiversioiden vertailuun ja NER-poimintoihin |
 | 🎤 Teksti- ja puheloki-työkalu | Web-sovellus | Apps Script (web app), Google Sheets (tietokanta), HTML/JS (UI), Android (selain) | Rakenteinen mobiililokitus (teksti + aikaleima + sijainti) |
 | 📅 Reading/Writing Calendar | Ajanhallinta / työnkulku | Kustomoitu HTML/JS (local tool), Excel | Projektinhallinta, työvaiheet | Tekstien aikataulutus ja etenemisen seuranta eri työvaiheissa |
-| 🔍 Hakupikanäppäimet | Automaatio | AutoHotkey v2, Windows, selaimen URL-hakut | Pikanäppäimillä ohjattu haku (Kielitoimisto, Google, Synonyymit) |
 | 🔍 Offline Highlight Tool | Selainlaajennus | JavaScript, Chrome/Edge (Manifest V3), Clipboard API, contextMenus API | Valitun tekstin kopiointi lähde-URL:n kanssa (offline) |
 | 🗺️ Muinaisia mestoja | Kartta / dataputki / AI-rikastus| Excel PowerQuery (WFS), Museovirasto API, KYPPI, GenAI, Google Maps | API → siivous → rikastus → interaktiivinen kartta |
 | 🗺️ Hiisi-paikannimet | Kartta / dataputki / AI-rikastus | Nimisampo, Sotasampo, Excel-käsittely, GoogleAIStudio, Google Maps | Laaja nimidata → teematasot → karttatutkiminen |
