@@ -31,7 +31,9 @@ Fokus:
 | 🧠 Sisällöntuotanto: muistiinpanot & minisisällöt | Sisältöputki | ChatGPT, manuaalinen kuratointi, audio/video/grafiikkatyökalut | Muistiinpanot → jäsennys → minisisällöt |
 | 🧠 Custom GPT:t | AI-konfiguraatio / promptikehitys | ChatGPT (custom GPTs), järjestelmäpromptit, ohjauspromptit | Käyttötapauskohtaiset GPT:t (räätälöity IT-tuki, tekstilähteiden tiivistäjät, tyylianalyysipohjaiset persoonat) |
 | 🧠 Ohjeet | Sisältöputki | Workflow- ja tulostiedostojen kuratointi, perinteiset ja AI-audio/video/grafiikkatyökalut | Muistiinpanot → jäsennys → sisällöt |
-| 🤖 Videoanalyysi (WIP) | Hahmon liikkeiden muuntaminen videoon & dataksi | Python | Video → pose tracking → eleet yhdistetyksi dataksi jatkotarkastelua varten |
+| 🤖 Videoanalyysi (WIP) | Liikeanalyysi: hahmon liikkeet videolta dataksi | Python | Video → pose tracking videolle → eleet yhdistetyksi dataksi jatkotarkastelua varten |
+| 🤖 Lokin lentorytmin mallinnus (test level) | ML/transformer käyttäytymisanalyysissä | Collab (..) | Lokin lentodata (GPS) → Markov chain vs. transformerin ennuste → minidata |
+
 | 🧰 Työkalut & ympäristöt | Kehitysympäristö / tooling | Anaconda/JupyterLab (Python), Colab, CSC Puhti; VS Code, Cursor, GitHub, Git; Excel, RStudio, Orange, QGIS, Blender, Gephi; AutoHotkey; GenAI (eri mallit), Replit, Vercel. Ollama, LMStudio, AnythingLLM, Unsloth; Adobe CC (InDesign, Lightroom, PhotoShop, Illustrator, Premiere), MSOffice, GoogleDocs/Sheets; Trados, Wordfast | Projektikehitys | Monityökalupohjainen kehitys eri käyttötarkoituksiin |
 
 ## Lisätietoja
