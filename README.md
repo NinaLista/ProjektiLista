@@ -11,8 +11,8 @@ Fokus:
 
 | Projekti | Tyyppi | Teknologia / Stack | Ydinidea |
 |----------|--------|-------------------|----------|
-| 🛠️ InDesign / InCopy -skriptit | Desktop automaatio / julkaisu | InDesign/InCopy scripting (JS/ExtendScript), Word/RTF import | . | Rakenteisen tekstin hallinta ja automaatio (esim. hakemistot, viitteet, kommentit) |
-| 🛠️ PDF / Word -tekstityökalut | Tekstin muotoilu | Python (PDF/Word parsing), fokus offline lokaalisti | PDF/Word-teksti | Tekstin siivous, muunnos halutusti | 
+| 🛠️ InDesign / InCopy -skriptit | Desktop automaatio / julkaisu | InDesign/InCopy scripting (JS/ExtendScript), Word/RTF import | Rakenteisen tekstin hallinta ja automaatio (esim. hakemistot, viitteet, kommentit) |
+| 🛠️ PDF / Word -tekstityökalut | Tekstin muotoilu | Python (PDF/Word parsing), fokus offline lokaalisti | PDF/Word-teksti Tekstin siivous, muunnos halutusti | 
 | 🛠️ Word-tekstityökalut | Tiedonhaku | AutoHotkey v2, Windows, URL-haut | AHK | Kustomoitava, pikanäppäimillä ohjattu haku (esim. Kielitoimisto, wikit, SAOB, synonyymit, Kansalliskirjasto) |
 | 🛠️ NER kyrilliset, aasialaiset erisnimet | Translitterointi | Python & Vercel | Tekstin translitterointi standardoidusti & tietohaku tarkistukseen | . | 
 | 🤖 Tekstianalyysiskriptit | Tekstianalyysi / data | Python (NLP Stanza, SpaCy, regex) | Tekstin kielelliset ominaisuudet, NER-entiteettilistaukset (henkilöt, organisaatiot, paikat), vierassanalistat | Kustomoitu analyysi tekstiversioiden vertailuun,,NER-poimintoihin, vierassanapoimintoihin |
