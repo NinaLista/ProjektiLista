@@ -20,6 +20,7 @@ Fokus:
 | 🎤 Teksti- ja puheloki-työkalu | Web-sovellus | Apps Script (web app), Google Sheets (tietokanta), HTML/JS (UI), Android (selain) | Rakenteinen mobiililokitus sarakkeisiin (teksti + aikaleima + sijainti + karttalinkki + valokuvaliite Drive-linkillä) |
 | 📅 Reading/Writing Calendar | Ajanhallinta / työnkulku | Kustomoitu HTML/JS (local tool), Excel | Projektinhallinta, työvaiheet | Tekstien aikataulutus ja etenemisen seuranta eri työvaiheissa |
 | 🔍 Offline Highlight Tool | Selainlaajennus | JavaScript, Chrome/Edge (Manifest V3), Clipboard API, contextMenus API | Valitun tekstin kopiointi lähde-URL:n kanssa selaimesta |
+| 🗺️ Rautakausiretki | Kartta / dataputki / AI-rikastus | GeoLibre StoryMaps, JSON/GeoJSON, GitHub Pages | Sisältö → rikastus → interaktiivinen kartta |
 | 🗺️ Muinaisia mestoja | Kartta / dataputki / AI-rikastus| Excel PowerQuery (WFS), Museovirasto API, KYPPI, GenAI, Google Maps | API → siivous → rikastus → interaktiivinen kartta |
 | 🗺️ Hiisi-paikannimet | Kartta / dataputki / AI-rikastus | Nimisampo, Sotasampo, Excel-käsittely, GoogleAIStudio, GenAI ChatGPT & Claude, Google Maps; Illustrator | Laaja nimidata → teematasot → karttatutkiminen |
 | 🗺️ Arkeologiset alueet (Satakunta) | Kartta / dataputki / AI-rikastus | Kulttuuriympäristö API, KYPPI/VARK, GenAI, Google Maps | Kuratoitu paikkadata → tiivistys → karttakohteet |
