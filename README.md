@@ -12,7 +12,7 @@ Fokus:
 | Projekti | Tyyppi | Teknologia / Stack | Ydinidea |
 |----------|--------|-------------------|----------|
 | 🛠️ InDesign / InCopy -skriptit | Desktop automaatio / julkaisu | InDesign/InCopy scripting (JS/ExtendScript), Word/RTF import | Rakenteisen tekstin hallinta ja automaatio (esim. hakemistot, viitteet, kommentit) |
-| 🛠️ PDF / Word -tekstityökalut | Tekstin muotoilu | Python (PDF/Word parsing), fokus offline lokaalisti | PDF/Word-teksti Tekstin siivous, muunnos halutusti | 
+| 🛠️ PDF / Word -tekstityökalut | Tekstiformaatin muotoilu | Python (PDF/Word parsing), fokus: offline lokaalisti | PDF/Word-teksti tyyppimuunnos & merkkien siivous halutusti | 
 | 🛠️ Word-tekstityökalut | Tiedonhaku | AutoHotkey v2, Windows, URL-haut / AHK | Kustomoitava, pikanäppäimillä ohjattu haku (esim. Kielitoimisto, wikit, SAOB, synonyymit, Kansalliskirjasto) |
 | 🛠️ NER kyrilliset, aasialaiset erisnimet | Translitterointi standardinmukaisella koodilla, tietokannan rakentaminen wikidatasta | Python & Vercel | Lokaali ja webapp-versio: nimen translitterointi standardoidusti & tietohaku tarkistuksen tueksi | 
 | 🛠️ EPUB tekstin vierassanojen kielikoodit (WIP) | Saavutettavuus | Python, valinnainen AI-vaihe | EPUB → sanojen poiminta → koodin upotus EPUBiin | 
